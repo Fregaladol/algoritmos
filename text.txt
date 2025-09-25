@@ -1,5 +1,6 @@
-Este es un pequeño 
-texto que debemos editar
-más adelante.
+Este texto se ha editado
 
-Vamos vamos Git Git Hurraaaa!
+entonces podremos ver las diferencias más tarde
+
+
+Otro cambios
