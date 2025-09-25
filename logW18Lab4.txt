@@ -1,0 +1,61 @@
+ 1832  git init
+ 1833  git branch -M main
+ 1834  git branch
+ 1835  git remote add origin https://github.com/Fregaladol/w18Lab4.git
+ 1836  git remot -v
+ 1837  git remote -v
+ 1838  git status
+ 1839  git add *
+ 1840  git commit
+ 1841  git push
+ 1842  git branch
+ 1843  git branch -a
+ 1844  git push --set-upstream origin main
+ 1845  git remote -v
+ 1846  git remote add origin git@github.com:Fregaladol/w18Lab4
+ 1847  git remote set-url origin git@github.com:Fregaladol/w18Lab4.git
+ 1848  git remote -v
+ 1849  git push
+ 1850  git push --set-upstream origin main
+ 1851  git pull
+ 1852  git branch --set-upstream-to=origin/main main
+ 1853  git pull --rebase
+ 1854  git status
+ 1855  git push
+ 1856  git status
+ 1857  git add *
+ 1858  git commit
+ 1859  git push
+ 1860  cd ..
+ 1861  ls
+ 1862  git clone https://github.com/Freegalado/Algorithms.git
+ 1863  cd Algorithms/
+ 1864  nano text.txt
+ 1865  git status
+ 1866  git remote -v
+ 1867  git remote set-url origin git@github.com:Fregaladol/algoritmos.git
+ 1868  git remote -v
+ 1869  git add *
+ 1870  git commit
+ 1871  git push
+ 1872  git pull
+ 1873  git pull --rebase
+ 1874  git status
+ 1875  git push
+ 1876  git status
+ 1877  git add *
+ 1878  git diff
+ 1879  git diff text.txt
+ 1880  git add *
+ 1881  git commit -m "ahora si"
+ 1882  git push
+ 1883  git log --oneline 
+ 1884  history -a > logW18Lab4.txt
+ 1885  history -a
+ 1886  history
+ 1887  history -a logW18Lab4.txt 
+ 1888  history | tail -50
+ 1889  history | tail -70
+ 1890  history | tail -60
+ 1891  history | tail -61
+ 1892  history | tail -61 > logW18Lab4.txt 
